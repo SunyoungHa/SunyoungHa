@@ -1,0 +1,79 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Sunyoung Ha</title>
+          <link rel="stylesheet" type="text/css" href="main.css">
+                </head>
+
+
+    <body>        
+   <header>
+         <h1>Sunyoung Ha</h1>
+   	<nav>
+		<ul>
+<li><a href="">WORK EXPERIENCE</a></li>
+<li><a href="">EDUCATION</a></li>
+<li><a href="">WEB DEVELOPMENT</a></li>
+<li><a href="">CONTACT</a></li>	
+</ul>
+</nav>
+</headr>
+             
+          <p>    
+    <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTICqnYdiZtSq_m6JJjtCmE5uud393x3CqpOJMu745-ZpqcmwULpg" width="400"><br>
+        <em>International Study & Work</em><br><br>
+        </p>
+
+<h2>WORK EXPERINCE </h2>
+<li><strong> Purchasing Manager</strong>
+<p> Participate in international exhibitions with business trips to Thailand, Japan, Italy, UK, Indonesia and Finland, etc.
+ </p>
+<br>
+<li><strong> Research Associate
+ </strong>
+<p>
+Participate in the EU citizenship research.
+</p><br>
+
+<h2>EDUCATION </h2>
+       
+<table>
+            <thead>
+                <tr>
+                    <th>School name</th>
+                    <th>Major</th>
+                    <th>Degree</th>
+</tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td> Hankuk University of Foreign Studies   </td>
+                    <td>    International Area Studies </td><br>
+                    <td>    M.A. </td><br>
+</tr>
+                            </tbody>
+        </table>
+        
+    </body>
+</html>
+
+
+<h2> WEB DEVELOPMENT</h2>
+<p>Here's how I can learn more about HTML&CSS.</p>
+        <ul>
+            <li><a href="http://en.wikipedia.org/wiki/Grace_Hopper">Wikipedia article</a></li>
+            <li><a href="https://www.youtube.com/watch?v=1-vcErOPofQ">Grace Hopper on Letterman</a></li>
+            <li><a href="http://gracehopper.org/">Grace Hopper conference</a></li>
+        </ul>
+    </div>
+
+    <div class="footer">
+        <p><a href=" https://www.linkedin.com/profile/preview?locale=ko_KR&trk=prof-0-sb-preview-primary-button">Read more on Linkedin</a></p>
+        <p><a href="mailto:0105sunyoung@gmail.com">Email</a></p>
+
+    </div>
+
+    </body>
+</html>
