@@ -1,0 +1,87 @@
+2 <!DOCTYPE html> 
+3 <html> 
+4     <head> 
+5         <meta charset="utf-8"> 
+6         <title>Sunyoung Ha</title> 
+7           <link rel="stylesheet" type="text/css" href="main.css"> 
+8                 </head> 
+9 
+ 
+10 
+ 
+11     <body>         
+12    <header> 
+13          <h1>Sunyoung Ha</h1> 
+14    	<nav> 
+15 		<ul> 
+16 <li><a href="">WORK EXPERIENCE</a></li> 
+17 <li><a href="">EDUCATION</a></li> 
+18 <li><a href="">WEB DEVELOPMENT</a></li> 
+19 <li><a href="">CONTACT</a></li>	 
+20 </ul> 
+21 </nav> 
+22 </headr> 
+23               
+24           <p>     
+25     <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTICqnYdiZtSq_m6JJjtCmE5uud393x3CqpOJMu745-ZpqcmwULpg" width="400"><br> 
+26         <em>International Study & Work</em><br><br> 
+27         </p> 
+28 
+ 
+29 <h2>WORK EXPERINCE </h2> 
+30 <li><strong> Purchasing Manager</strong> 
+31 <p> Participate in international exhibitions with business trips to Thailand, Japan, Italy, UK, Indonesia and Finland, etc. 
+32  </p> 
+33 <br> 
+34 <li><strong> Research Associate 
+35  </strong> 
+36 <p> 
+37 Participate in the EU citizenship research. 
+38 </p><br> 
+39 
+ 
+40 <h2>EDUCATION </h2> 
+41         
+42 <table> 
+43             <thead> 
+44                 <tr> 
+45                     <th>School name</th> 
+46                     <th>Major</th> 
+47                     <th>Degree</th> 
+48 </tr> 
+49             </thead> 
+50             <tbody> 
+51                 <tr> 
+52                     <td> Hankuk University of Foreign Studies   </td> 
+53                     <td>    International Area Studies </td><br> 
+54                     <td>    M.A. </td><br> 
+55 </tr> 
+56                             </tbody> 
+57         </table> 
+58          
+59     </body> 
+60 </html> 
+61 
+ 
+62 
+ 
+63 <h2> WEB DEVELOPMENT</h2> 
+64 <p>Here's how I can learn more about HTML&CSS.</p> 
+65         <ul> 
+66             <li><a href="http://en.wikipedia.org/wiki/Grace_Hopper">Wikipedia article</a></li> 
+67             <li><a href="https://www.youtube.com/watch?v=1-vcErOPofQ">Grace Hopper on Letterman</a></li> 
+68             <li><a href="http://gracehopper.org/">Grace Hopper conference</a></li> 
+69         </ul> 
+70     </div> 
+71 
+ 
+72     <div class="footer"> 
+73         <p><a href=" https://www.linkedin.com/profile/preview?locale=ko_KR&trk=prof-0-sb-preview-primary-button">Read more on Linkedin</a></p> 
+74         <p><a href="mailto:0105sunyoung@gmail.com">Email</a></p> 
+75 
+ 
+76     </div> 
+77 
+ 
+78     </body> 
+79 </html> 
